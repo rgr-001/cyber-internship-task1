@@ -7,6 +7,10 @@ To use **Nmap** to scan the local network and discover open ports and running se
 - Nmap
 - Wireshark (optional)
 
+## 💻 Language Used
+- Bash / Shell Scripting (Linux terminal commands)
+- Markdown (for documentation)
+
 ## 🔍 Command Used
 ```bash
 sudo nmap -sS 192.168.1.0/24
