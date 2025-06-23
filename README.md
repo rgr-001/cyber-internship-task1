@@ -19,5 +19,4 @@ sudo nmap -sS 192.168.1.0/24
 ## 🧠 Summary
 Performed a TCP SYN scan to identify live hosts and open ports in the local subnet. Results were saved and analyzed for security exposure.
 
-## 🔗 Submission
-[Submit Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
+
